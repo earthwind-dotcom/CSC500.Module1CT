@@ -1,5 +1,5 @@
 # CSC500.Module1CTA
-This is mainly for my Module 1 Critical Thinking Assignment that is two parts
+This is mainly for my Module 1 Critical Thinking Assignment that is two parts.
 Below are the instructions to the assignment:
 
 Creating Python Programs
